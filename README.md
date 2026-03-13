@@ -1,209 +1,134 @@
-<h1 align="center">🤖 Ahmad — AI/ML Engineer | Generative AI | MLOps | Applied Machine Learning</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=220&section=header&text=Ahmed%20Sajjad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blue">
-<img src="https://img.shields.io/badge/ML-Machine%20Learning-green">
-<img src="https://img.shields.io/badge/GenAI-Generative%20AI-purple">
-<img src="https://img.shields.io/badge/MLOps-Production%20ML-orange">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Backend+Architect;AI%2FML+Engineer;Node.js+%7C+Python+%7C+Ruby+on+Rails+Expert;Building+Scalable+Cloud+Systems" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=devahmadsaad&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I’m Ahmad, an AI/ML Engineer specializing in data science, machine learning, deep learning, and generative AI.  
-Over the past several years, I’ve built and deployed production-grade ML pipelines, forecasting systems, computer vision models, RAG chatbots, and agentic AI systems.
+Senior **Full Stack Engineer with 8+ years experience** building high-performance web platforms, scalable backend systems, and AI-driven applications.
 
-My work blends analytical modeling, LLM engineering, and MLOps best practices to create scalable, reliable, and intelligent AI systems.
+I specialize in designing **robust distributed architectures, cloud infrastructure, and production-ready APIs**.
 
----
+🚀 Core focus
 
-# 🧠 Core Expertise Areas
+• Backend architecture  
+• Cloud infrastructure  
+• Microservices systems  
+• DevOps automation  
+• AI / ML integrations  
+• High-performance APIs  
 
-## 📊 Data Science & Classical ML
-
-Predictive modeling, supervised & unsupervised learning  
-Feature engineering, model evaluation, cross-validation  
-Data cleaning, preprocessing, statistical analysis  
-
----
-
-## 📈 Time-Series & Forecasting
-
-Demand forecasting (SKUs, customers, multi-hierarchy forecasting)  
-Time-series models: ARIMA, SARIMA, Prophet, LSTM, XGBoost  
-Granular forecasting (regional, customer, product-level)  
-MAPE, RMSE optimization  
-Seasonality, trend, and anomaly detection  
+📍 Sweden, EU
 
 ---
 
-## 🔁 Churn Prediction & Customer Analytics
+# ⚙️ Tech Stack
 
-Customer lifecycle modeling  
-Survival analysis  
-Propensity scoring & uplift modeling  
-Segmentation with clustering algorithms  
-
----
-
-## 💲 Price Elasticity & Revenue Optimization
-
-Elasticity modeling using regression and demand curves  
-Experimentation frameworks (A/B tests, causal inference)  
-Price sensitivity clustering & dynamic pricing models  
-
----
-
-## 🖼️ Computer Vision
-
-YOLOv5/YOLOv8 detection & segmentation  
-Image classification (CNNs, EfficientNet, ResNet)  
-Object tracking, OCR, image preprocessing  
-Real-time inference optimization (ONNX, TensorRT)  
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,django,fastapi,ruby,rails,react,nextjs,angular,postgres,mongodb,redis,mysql,docker,kubernetes,terraform,aws,gcp,git,github,gitlab,jenkins,graphql,redux,html,css,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 📝 Natural Language Processing (NLP)
+# 🏆 GitHub Achievements
 
-Text classification, NER, sentiment analysis  
-Transformers: BERT, RoBERTa, DistilBERT  
-Sequence-to-sequence models  
-TTS (Text-to-Speech), SST (Speech-to-Text)  
-ASR pipelines & audio processing  
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=devahmadsaad&theme=algolia&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
 ---
 
-# ⚙️ MLOps — Production Machine Learning
+# 📊 GitHub Stats
 
-End-to-end ML pipelines (ETL → Train → Evaluate → Deploy → Monitor)  
+<p align="center">
 
-CI/CD for ML, experiment tracking (MLflow, Weights & Biases)  
-Model registry, model versioning, reproducibility  
-Data drift and model drift monitoring  
-Feature stores: Feast  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devahmadsaad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
-Deployment: Docker, FastAPI, AWS Lambda/ECS  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahmadsaad&layout=compact&theme=tokyonight" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes" />
 </p>
 
 ---
 
-# 🧬 Generative AI & Large Language Models (LLMs)
+# 🔥 GitHub Streak
 
-## ✨ LLMs & Fine-Tuning
+<p align="center">
 
-Model fine-tuning: Llama, Mistral, Falcon  
+<img src="https://streak-stats.demolab.com?user=devahmadsaad&theme=tokyonight" />
 
-LoRA, QLoRA, PEFT techniques  
-Embedding-based semantic search  
-
----
-
-## ⚡ LLM Deployment
-
-Serving LLMs (vLLM, TGI, Ollama, AWS Sagemaker)  
-Quantization (GGUF, GPTQ) for fast inference  
-GPU/CPU optimized serving  
-
----
-
-## 🧠 Prompt Engineering
-
-Advanced prompting patterns  
-
-CoT, ToT, ReAct, Self-Ask, Self-Consistency  
-
-Guardrails for safe and deterministic generations  
-
----
-
-# 🔍 RAG & Advanced Retrieval Systems
-
-Vector databases: Pinecone, Weaviate, FAISS, Chroma  
-
-Hybrid search: BM25 + embeddings  
-Chunking strategies, context optimization  
-Metadata filtering, semantic routing  
-Document loaders, PDF intelligence, OCR  
-
-High-precision retrieval for enterprise search  
-
----
-
-# 🤖 Chatbots & LLM Applications
-
-Enterprise knowledge assistants  
-Customer support bots  
-AI-driven automation agents  
-Multi-document QA systems  
-Structured LLM outputs (JSON mode, tool calling)  
-
----
-
-# 🧩 Agentic AI & MCP (Model Context Protocol)
-
-Multi-agent systems (planner, executor, retriever, critic)  
-Tool-using LLMs (code execution, search, file ops)  
-Autonomous workflows / self-improving agents  
-MCP for context sharing across models & tools  
-Memory-augmented agents for long-running tasks  
-
----
-
-# 🔧 Tools & Technologies
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
 </p>
 
-Languages: Python, SQL  
+---
 
-### Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devahmadsaad&theme=tokyo-night" />
+
 </p>
 
-Frameworks: PyTorch, TensorFlow, Scikit-Learn, LangChain, LlamaIndex  
+---
 
-### Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devahmadsaad/devahmadsaad/output/github-contribution-grid-snake.svg" />
 </p>
 
-Infra: AWS, Docker, Kubernetes basics  
+---
 
-Metrics: MAPE, RMSE, ROC-AUC, BLEU, F1-score  
+# 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/devahmadsaad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/devahmadsaad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project2&theme=tokyonight" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/devahmadsaad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/devahmadsaad">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project4&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌐 Connect With Me
 
-Lightweight LLM fine-tuning on edge hardware  
-Multi-agent enterprise AI orchestration  
-High-precision retrieval pipelines for RAG at scale  
-Automated alignment & evaluation frameworks for LLM systems  
+<p align="center">
+
+<a href="https://github.com/devahmadsaad">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/dev-ahmadsaeed/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
 
 ---
 
-# 📫 Contact
+# ⚡ Fun Fact
 
-Open to AI/ML Engineering, Applied Science, and GenAI-focused roles.  
-Available for consulting, technical architecture design, and ML pipeline development.
-
----
-
-# ⭐
-
-**“Build models. Deploy intelligence. Automate the future.”**
+I enjoy building **scalable backend systems, cloud platforms, and intelligent software architectures.**
