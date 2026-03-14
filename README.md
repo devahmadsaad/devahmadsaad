@@ -16,7 +16,7 @@ Senior **Full Stack Engineer with 8+ years experience** building high-performanc
 
 I specialize in designing **robust distributed architectures, cloud infrastructure, and production-ready APIs**.
 
-🚀 Core focus
+Core focus
 
 • Backend architecture  
 • Cloud infrastructure  
@@ -29,7 +29,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,python,django,fastapi,ruby,rails,react,nextjs,angular,postgres,mongodb,redis,mysql,docker,kubernetes,terraform,aws,gcp,git,github,gitlab,jenkins,graphql,redux,html,css,tailwind,bootstrap" />
@@ -37,7 +37,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 🏆 GitHub Achievements
+#  GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=devahmadsaad&theme=algolia&margin-w=15&margin-h=15&no-bg=true" />
@@ -45,7 +45,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -57,7 +57,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -67,7 +67,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -77,7 +77,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devahmadsaad/devahmadsaad/output/github-contribution-grid-snake.svg" />
@@ -85,7 +85,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
 <p align="center">
 
@@ -113,7 +113,7 @@ I specialize in designing **robust distributed architectures, cloud infrastructu
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
