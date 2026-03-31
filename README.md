@@ -37,26 +37,6 @@ Core focus
 
 ---
 
-#  GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devahmadsaad&theme=algolia&margin-w=15&margin-h=15&no-bg=true" />
-</p>
-
----
-
-#  GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devahmadsaad&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahmadsaad&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
 #  GitHub Streak
 
 <p align="center">
