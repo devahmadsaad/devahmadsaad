@@ -57,33 +57,6 @@ Core focus
 
 ---
 
-#  Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/devahmadsaad/react-starter-kit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project1&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/devahmadsaad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project2&theme=tokyonight" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/devahmadsaad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project3&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/devahmadsaad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project4&theme=tokyonight" />
-</a>
-
-</p>
-
----
 
 #  Connect With Me
 
