@@ -61,7 +61,7 @@ Core focus
 
 <p align="center">
 
-<a href="https://github.com/devahmadsaad">
+<a href="https://github.com/devahmadsaad/react-starter-kit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=devahmadsaad&repo=project1&theme=tokyonight" />
 </a>
 
